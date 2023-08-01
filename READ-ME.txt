@@ -1,9 +1,5 @@
   =>  Template Name    : Gardener - Gardening Website Template
 
-  =>  Template Link    : https://htmlcodex.com/gardening-website-template
+  =>  Template Author  : Ben-Muhire
 
-  =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
-
-  =>  Template Author  : HTML Codex
-
-  =>  Author Website   : https://htmlcodex.com
+  =>  Author Website   : https://idyllic-dieffenbachia-b9468b.netlify.app/
